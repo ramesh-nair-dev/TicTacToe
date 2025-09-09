@@ -101,7 +101,6 @@ java -cp src Main
 ## 👨‍💻 Author
 
 **Ramesh Nair**
-Software Engineer | OOP Enthusiast | Design Pattern Explorer
 
 ---
 
