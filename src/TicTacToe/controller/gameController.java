@@ -53,7 +53,6 @@ public class gameController {
 
 /**
  * --------------------------------------------------------------------------------
- * Recruiter-Friendly Comments:
  *
  * - The `gameController` class acts as a mediator between the client and the core game logic, following the Controller pattern.
  * - It does not store any game state internally, which allows multiple games to be managed independently and avoids shared state bugs.
