@@ -82,11 +82,11 @@ java -cp src Main
 
 ## 🎯 Why This Project is Special
 
-✅ Not just a Tic Tac Toe — it’s a **showcase of software craftsmanship**.
-✅ Demonstrates **real-world OOP principles** (inheritance, abstraction, polymorphism).
-✅ Highlights **design patterns** (Strategy, Factory, OCP) in action.
-✅ Recruiters see **scalable thinking** beyond a toy project.
-✅ Developers see **clean, extensible, fun code** to play with.
+- ✅ Not just a Tic Tac Toe — it’s a **showcase of software craftsmanship**.
+- ✅ Demonstrates **real-world OOP principles** (inheritance, abstraction, polymorphism).
+- ✅ Highlights **design patterns** (Strategy, Factory, OCP) in action.
+- ✅ Recruiters see **scalable thinking** beyond a toy project.
+- ✅ Developers see **clean, extensible, fun code** to play with.
 
 ---
 
